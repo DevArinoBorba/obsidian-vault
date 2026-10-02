@@ -1,0 +1,13 @@
+# Obsidian workspace cache (cada máquina tem o seu)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+
+# Logs
+*.log
